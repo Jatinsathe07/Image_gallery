@@ -11,7 +11,8 @@ Please follow the instructions to set it up.
 
 ### Instructions
 
-1. Open the folder in vscode and run ``npm run dev``
+1.clone the repo and run ``npm install``
+2. Open the folder in vscode and run ``npm run dev``
 
 
 **Javascript logic to filters image**
